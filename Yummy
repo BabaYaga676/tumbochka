@@ -1,0 +1,128 @@
+/* Оценка сотрудников */
+
+
+position: relative;
+width: 360px;
+height: 640px;
+
+background: #272E2F;
+
+
+/* Оценка блюд */
+
+
+position: relative;
+width: 360px;
+height: 640px;
+
+background: #272E2F;
+
+
+/* Sales */
+
+
+position: relative;
+width: 360px;
+height: 1014px;
+
+background: #272E2F;
+
+
+/* Brone */
+
+
+position: relative;
+width: 360px;
+height: 640px;
+
+background: #272E2F;
+
+
+/* order */
+
+
+position: relative;
+width: 360px;
+height: 640px;
+
+background: #272E2F;
+
+
+/* Menu */
+
+
+position: relative;
+width: 360px;
+height: 847px;
+
+background: #272E2F;
+
+
+/* Страница заведения */
+
+
+position: relative;
+width: 360px;
+height: 640px;
+
+background: #272E2F;
+
+
+/* Filters */
+
+
+position: relative;
+width: 360px;
+height: 640px;
+
+background: #272E2F;
+
+
+/* History */
+
+
+position: relative;
+width: 360px;
+height: 873px;
+
+background: #272E2F;
+
+
+/* Settings */
+
+
+position: relative;
+width: 360px;
+height: 640px;
+
+background: #272E2F;
+
+
+/* Login */
+
+
+position: relative;
+width: 360px;
+height: 640px;
+
+background: #272E2F;
+
+
+/* Profile */
+
+
+position: relative;
+width: 360px;
+height: 640px;
+
+background: #272E2F;
+
+
+/* Map */
+
+
+position: relative;
+width: 360px;
+height: 640px;
+
+background: #FFFFFF;
